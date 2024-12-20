@@ -1,3 +1,3 @@
 ### Google Drive Link
-Just in case GitHub has some issues with downloading my resume.
+For some reason downloading PDF files from GitHub does not work on Google Chrome (Windows 10).
 https://drive.google.com/file/d/1H5LgVLJGIQTr0JJwLsMRmN37m77t69OP/view?usp=sharing
